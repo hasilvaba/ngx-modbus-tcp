@@ -1,6 +1,6 @@
 {
   "name": "ngx-modbus-tcp",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Modbus TCP/IP",
   "main": "lib/Modbus.js",
   "repository": "https://github.com/hasilvaba/ngx-modbus-tcp.git",
