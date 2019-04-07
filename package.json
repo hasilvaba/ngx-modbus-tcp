@@ -17,5 +17,9 @@
     "commander": "2.9.0"
   },
   "author": "Hugo Silva <hasilva.ba@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readable-stream": "^3.3.0",
+    "stream-transform": "^1.0.8"
+  }
 }
